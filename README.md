@@ -1,4 +1,4 @@
-# Python Coursework — Day-wise Practice Repository
+# Python Coursework 
 
 This repository contains a structured collection of Python programs organized from Day 1 to Day 24. Each folder represents daily practice, focusing on building programming fundamentals through consistent implementation.
 
